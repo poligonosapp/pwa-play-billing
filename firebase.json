@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "<FIREBASE_PROJECT_ID>",
+    "site": "poligonosapp.consumer",
     "public": "src",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
